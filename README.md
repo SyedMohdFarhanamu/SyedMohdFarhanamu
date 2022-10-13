@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://syedmohdfarhanamu.io/)
 
 <h1 align="center">Hi 👋, I'm Syed Mohd Farhan</h1>
 <h3 align="center">I am very fascinated by the impact of data on business operations, looking for great opportunities in Data Analytics and Machine Learning Engineer where I can contribute my proficient knowledge of Programming, Data Manipulation, Feature Engineering, Analytics and Business Intelligence & also use excellent understanding of business operation and analytics tools to growth of the organization.</h3>
