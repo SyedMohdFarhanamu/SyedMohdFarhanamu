@@ -1,5 +1,4 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://syedmohdfarhanamu.io/)
-
 <h1 align="center">Hi 👋, I'm Syed Mohd Farhan</h1>
 <h3 align="center">I am very fascinated by the impact of data on business operations, looking for great opportunities in Data Analytics and Machine Learning Engineer where I can contribute my proficient knowledge of Programming, Data Manipulation, Feature Engineering, Analytics and Business Intelligence & also use excellent understanding of business operation and analytics tools to growth of the organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -12,14 +11,9 @@
 
 - 📫 How to reach me **syedmohdfarhan87@gmail.com || syedfarhan.amu@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-https://www.linkedin.com/in/syed-mohd-farhan-/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/syed-mohd-farhan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-mohd-farhan-/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-mohd-farhan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-mohd-farhan-/" height="30" width="40" /></a>
 <a href="https://medium.com/@syedmohdfarhan87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@syedmohdfarhan87" height="30" width="40" /></a>
 </p>
 
